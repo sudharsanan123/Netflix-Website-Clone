@@ -34,7 +34,7 @@ a{
 }
 
 p {
-	margin: 0.5rem 0;
+	margin: 0.6rem 0;
 }
 
 img {
@@ -47,7 +47,7 @@ img {
 	position: left;
 	background: url('https://img.techpowerup.org/200613/netflix-backgroung-image.jpg') no-repeat center center/cover;
 	border-bottom: 8px solid #222;
-	text-indent: 5px;
+	text-indent: 6px;
 }
 
 .showcase-top {
@@ -94,7 +94,7 @@ nav {
 
 .btn-x1 {
 	font-size: 1rem;
-	padding: 0.8rem 1.3rem;
+	padding: 0.9rem 1.4rem;
 	text-transform: uppercase; 
 }
 
